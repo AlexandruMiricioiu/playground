@@ -1,7 +1,9 @@
-$color-primary: #55c57a;
-$color-primary-light: #7ed56f;
-
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
 }
